@@ -1,6 +1,6 @@
 # ga-sites
 
-There are 2 rails sites in this repository. 
+There are 2 rails sites in this repository. I have used official GA [documentation](https://developers.google.com/analytics/devguides/collection/analyticsjs/cross-domain#iframes) to test cross-domain tracking of events with iframes.
 
 Setup:
 
